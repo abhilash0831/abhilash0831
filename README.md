@@ -4,6 +4,6 @@
 
 - 🔭 I started with Data analysis in 2020, and I fell in love with it :heart:
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
+- 👯 I will graduate by May' 2022 and open for jobs.
 - 🥅 2022 Goals: Learn more and contribute more 
 - ⚡ Fun fact: I love to hike and cook
