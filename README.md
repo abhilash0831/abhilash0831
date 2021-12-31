@@ -1,4 +1,4 @@
-### Hi there, I'm Abhilash [https://www.linkedin.com/in/abhilash-tripathi-80692689/. ] 👋 
+### Hi there, I'm Abhilash ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) 👋 
 
 ## I'm a Ph.D. student and an aspiring data digger. 
 
