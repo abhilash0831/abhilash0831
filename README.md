@@ -1,4 +1,8 @@
-### Hi there, I'm Abhilash ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) 👋 
+### Hi there, I'm Abhilash <p>
+  <a href="https://www.linkedin.com/in/abhilash-tripathi-80692689/" rel="nofollow noreferrer">
+    <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"> LinkedIn
+  </a> &nbsp; 
+</p> 👋 
 
 ## I'm a Ph.D. student and an aspiring data digger. 
 
