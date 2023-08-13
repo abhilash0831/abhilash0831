@@ -4,10 +4,6 @@
   </a> &nbsp; 
 </p> 👋 
 
-## I'm a Ph.D. student and an aspiring data digger. 
-
-- 🔭 I started with Data analysis in 2020, and I fell in love with it :heart:
-- 🌱 I’m currently learning everything 🤣
-- 👯 I will graduate by May' 2022 and open for jobs.
-- 🥅 2022 Goals: Learn more and contribute more 
-- ⚡ Fun fact: I love to hike and cook
+🔍 Started exploring the data world just 2 months ago, and I'm already loving every bit of it! 💖
+🌱 Currently delving deep into the art of crafting versatile machine learning models, with a focus on mastering the realms of regression and classification. Alongside, I'm exploring the captivating territory of unsupervised techniques to uncover hidden patterns and structures within data! 🤖📈🕵️‍♂️📊🔍
+- 🥅 2023 Goals: Learn more and contribute more.
