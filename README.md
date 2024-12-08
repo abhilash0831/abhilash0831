@@ -6,4 +6,3 @@
 
 🔍 Started exploring machine learning, and I'm already loving every bit of it! 💖
 🌱 Currently delving deep into the art of crafting versatile machine learning models, with a focus on mastering the realms of regression and classification. Alongside, I'm exploring the captivating territory of unsupervised techniques to uncover hidden patterns and structures within data! 🤖📈🕵️‍♂️📊🔍
-- 🥅 2023 Goals: Learn more and contribute more.
